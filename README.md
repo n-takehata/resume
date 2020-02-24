@@ -29,6 +29,7 @@
 - Spring Framework
 - Play Framework
 - Ktor
+- gRPC
 - MyBatis
 - Exposed
 - JUnit
