@@ -4,7 +4,6 @@
 |名前|竹端 尚人|
 |メインの職種|サーバーサイドエンジニア|
 |ブログ(個人)|https://blog.takehata-engineer.com/|
-|ブログ(会社)|https://blog.applibot.co.jp/author/takehatanaoto/|
 |Twitter|[@n_takehata](https://twitter.com/n_takehata)|
 |Speaker Deck|https://speakerdeck.com/n_takehata|
 
@@ -102,7 +101,6 @@ Unityでのサーバー通信部分の実装や、gRPC通信ライブラリ(内�
     - https://gihyo.jp/magazine/SD/archive/2019/201904
 - 各種インタビュー、掲載記事
     - [公務員から人気アプリ『グリモア～私立グリモワール魔法学園～』のリードエンジニアへ。ユーザーの声を力に、世界を震撼させるゲーム開発を目指す](https://career.levtech.jp/guide/pickup/column/54/)
-    - [経営×エンジニア](https://www.cyberagent.co.jp/way/features/list/detail/id=13817)
     - [ログミー](https://logmi.jp/persons/5789)
 
 ## 強み
