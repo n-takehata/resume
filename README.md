@@ -91,6 +91,8 @@ KotlinとgRPCを使ったサーバーサイドアプリケーションの開発�
 Unityでのサーバー通信部分の実装や、gRPC通信ライブラリ(内製)の改修など、クライアント側の実装も一部担当。
 
 ## 登壇、執筆等
+- 著書『Kotlin サーバーサイドプログラミング実践開発』
+    - https://gihyo.jp/book/2021/978-4-297-11859-4
 - CEDEC2018
     - https://cedec.cesa.or.jp/2018/session/detail/s5abf865c5ecde.html
 - CEDEC 2019
