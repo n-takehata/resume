@@ -7,57 +7,6 @@
 |Twitter|[@n_takehata](https://twitter.com/n_takehata)|
 |Speaker Deck|https://speakerdeck.com/n_takehata|
 
-## スキルセット
-### 言語
-#### 得意
-- Kotlin
-- Java
-#### 普通
-- C#
-- Go
-- Ruby
-- Groovy
-#### 使用経験あり
-- JavaScript
-- TypeScript
-- C
-- PHP
-- Perl
-
-### フレームワーク、ライブラリ
-- Spring Framework
-- Play Framework
-- Ktor
-- gRPC
-- MyBatis
-- Exposed
-- JUnit
-- KotlinTest
-- Vaadin
-- etc...
-
-### ミドルウェア、ツールなど
-#### クラウドサービス
-- AWS
-    - EC2
-    - RDS
-    - ElastiCache
-    - etc...
-- Photon
-- Firebase
-#### データベース
-- MySQL
-- Oracle
-#### その他
-- Unity
-- Terraform
-- Docker
-- Kubernetes
-- etc...
-
-### その他
-- リードエンジニア、エンジニアリングマネージャーの経験あり
-
 ## 職務経歴のサマリー
 経歴の詳細は[こちら](#職務経歴詳細)
 ### 2007/12 - 2010/12 SES
@@ -144,6 +93,57 @@ Unityでのサーバー通信部分の実装や、gRPC通信ライブラリ(内�
 ### 技術的裁量を持って仕事をしたい
 技術選定など含め、プロダクトを作るに当たって必要な技術的な判断を大きな裁量を持ってできる環境で仕事をしたいと思っています。  
 プロダクトに対して、技術的に最適なソリューションを考えたり、それが実現して世の中で動いていることに楽しさを感じます。
+
+## スキルセット
+### 言語
+#### 得意
+- Kotlin
+- Java
+#### 普通
+- C#
+- Go
+- Ruby
+- Groovy
+#### 使用経験あり
+- JavaScript
+- TypeScript
+- C
+- PHP
+- Perl
+
+### フレームワーク、ライブラリ
+- Spring Framework
+- Play Framework
+- Ktor
+- gRPC
+- MyBatis
+- Exposed
+- JUnit
+- KotlinTest
+- Vaadin
+- etc...
+
+### ミドルウェア、ツールなど
+#### クラウドサービス
+- AWS
+    - EC2
+    - RDS
+    - ElastiCache
+    - etc...
+- Photon
+- Firebase
+#### データベース
+- MySQL
+- Oracle
+#### その他
+- Unity
+- Terraform
+- Docker
+- Kubernetes
+- etc...
+
+### その他
+- リードエンジニア、エンジニアリングマネージャーの経験あり
 
 ## 職務経歴詳細
 ### 2008/03 - 2008/11 某カード会社向け延滞情報管理システムマイグレーション
@@ -265,7 +265,7 @@ ZOZOTOWNのサーバーサイドプログラム(VBScript)のJava APIへのリプ
 #### 業務内容
 - 毎月2回相談会を実施し、各種技術課題や組織課題へ回答する
 
-### 2021/10 - 現在 広告解析ツールの新規機能開発、保守運用
+### 2021/10 - 2023/09 広告解析ツールの新規機能開発、保守運用
 広告の効果測定ツールMAGELLANの顧客向けレポート機能の開発、保守運用、テックリード業務
 #### 業務内容
 - テックリードとして参画し、新チームを立ち上げ
@@ -289,3 +289,8 @@ ZOZOTOWNのサーバーサイドプログラム(VBScript)のJava APIへのリプ
 - 新規参画メンバーのオンボーディング
 - スプリントのプランニング、レトロスペクティブの実施
 - 会社横断でのエンジニア施策の考案、実行
+
+### 2023/10 - 電子カルテの機能開発、保守運用
+病院向けクラウド型電子カルテの機能開発、保守運用
+#### 業務内容
+更新中
